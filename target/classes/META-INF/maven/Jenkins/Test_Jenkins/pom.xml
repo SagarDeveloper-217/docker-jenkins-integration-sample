@@ -9,6 +9,9 @@
 
   <name>Test_Jenkins</name>
   <url>http://maven.apache.org</url>
+  <build>
+	  <finalName>docker-jenkins-integration-sample</finalName>
+  </build>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
